@@ -5,5 +5,9 @@ $string = "Hello, World";
 $boolean = true;
 ##$array = [1,2,3,4,5];
 
+$input = "<input type='int'><br>";
+echo $input;
 
-echo $int;
+$a = 1;
+$b = "2";
+echo $a + $b;
